@@ -1,3 +1,5 @@
+package edu.giovanna.anatomiaclasses;
+
 public class MyClass {
     public static void main(String[] args) {
 

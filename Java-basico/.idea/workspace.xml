@@ -40,14 +40,14 @@
 }]]></component>
   <component name="RunManager" selected="Application.BoletimEstudantil">
     <configuration name="BoletimEstudantil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.BoletimEstudantil" />
+      <option name="MAIN_CLASS_NAME" value="BoletimEstudantil" />
       <module name="Java-basico" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.MyClass" />
+      <option name="MAIN_CLASS_NAME" value="MyClass" />
       <module name="Java-basico" />
       <method v="2">
         <option name="Make" enabled="true" />
