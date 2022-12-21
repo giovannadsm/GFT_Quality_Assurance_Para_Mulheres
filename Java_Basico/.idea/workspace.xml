@@ -35,9 +35,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Giovanna/OneDrive/Documentos/git/Bootcamp_GFT_Quality_Assurance_Para_Mulheres/Java_Basico"
+    "last_opened_file_path": "C:/Users/Giovanna/OneDrive/Documentos/git/Bootcamp_GFT_Quality_Assurance_Para_Mulheres/Java_Basico/dio_trilha_java_basico"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.BoletimEstudantil">
     <configuration name="BoletimEstudantil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.BoletimEstudantil" />
