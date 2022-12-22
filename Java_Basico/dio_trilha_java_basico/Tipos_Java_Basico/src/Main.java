@@ -5,8 +5,11 @@ public class Main {
 
         idade = 10;
 
-        final double valor_Pi = 3.14; //valor que não pode ser modificado depois de declarado//
-        
+//        CONSTANT
+        final double VALOR_PI = 3.1415; //valor que não pode ser modificado depois de declarado//
+
+
+        double a = 3 * VALOR_PI;
     }
 
     }
