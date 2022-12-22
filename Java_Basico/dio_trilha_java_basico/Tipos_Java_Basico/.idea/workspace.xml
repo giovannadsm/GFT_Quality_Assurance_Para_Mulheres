@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bb80755-bcb1-4410-b438-ea2c280af41a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/operadores/unarios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operadores/ternario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.unarios">
+  <component name="RunManager" selected="Application.ternario">
     <configuration name="aritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="operadores.aritmeticos" />
       <module name="Tipos_Java_Basico" />
@@ -72,6 +71,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ternario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operadores.ternario" />
+      <module name="Tipos_Java_Basico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="unarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="operadores.unarios" />
       <module name="Tipos_Java_Basico" />
@@ -87,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ternario" />
         <item itemvalue="Application.unarios" />
         <item itemvalue="Application.operadores.atribuicao" />
         <item itemvalue="Application.aritmeticos" />
