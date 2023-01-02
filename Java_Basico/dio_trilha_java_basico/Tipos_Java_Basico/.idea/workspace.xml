@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bb80755-bcb1-4410-b438-ea2c280af41a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/operadores/logicos.java" afterDir="false" />
-    </list>
+    <list default="true" id="7bb80755-bcb1-4410-b438-ea2c280af41a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,9 +41,22 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.logicos">
+  <component name="RunManager" selected="Application.logica_avancada">
     <configuration name="comparacoes_avancadas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="operadores.comparacoes_avancadas" />
+      <module name="Tipos_Java_Basico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="logica_avancada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operadores.logica_avancada" />
       <module name="Tipos_Java_Basico" />
       <extension name="coverage">
         <pattern>
@@ -96,26 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="unarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operadores.unarios" />
-      <module name="Tipos_Java_Basico" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="operadores.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.logica_avancada" />
         <item itemvalue="Application.logicos" />
         <item itemvalue="Application.comparacoes_avancadas" />
         <item itemvalue="Application.relacionais" />
         <item itemvalue="Application.ternario" />
-        <item itemvalue="Application.unarios" />
       </list>
     </recent_temporary>
   </component>
